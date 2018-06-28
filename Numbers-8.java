@@ -1,4 +1,4 @@
-public class Numbers-8{
+public class Main{
 	public static void main(String[] args) {
 		System.out.println("List 10 Catalan numbers:");
 		for(long i = 1; i <= 10; i++){

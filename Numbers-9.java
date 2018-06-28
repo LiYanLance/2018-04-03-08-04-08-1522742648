@@ -1,4 +1,4 @@
-public class Numbers-9{
+public class Main{
 	public static void main(String[] args) {
 		System.out.println("First 10 Happy numbers:");
 		int count = 0, i = 0;

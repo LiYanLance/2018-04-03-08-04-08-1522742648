@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.*;
 
-public class Numbers-5 {
+public class Main {
 	static Map<BigInteger, Tuple> cache = new HashMap<>();
 	
 	static class Tuple {

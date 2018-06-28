@@ -1,4 +1,4 @@
-public class Numbers-21{
+public class Main{
 	public static void main(String[] args) {
 		// read in one command-line argument
         int n = 100000;

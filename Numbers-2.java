@@ -1,4 +1,4 @@
-public class Numbers-2{
+public class Main{
   public static void main(String[] args) {
     int deficientCount = 0;
 	int perfectCount = 0;

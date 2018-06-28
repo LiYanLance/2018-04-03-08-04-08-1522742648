@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DataTypesExercises-4 {
+public class Main {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Input the number of minutes: ");
