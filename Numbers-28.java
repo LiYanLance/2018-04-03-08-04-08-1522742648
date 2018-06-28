@@ -1,4 +1,4 @@
-public class Main{
+public class Numbers-28{
 	public static void main(String[] args) {
 		System.out.print("First Twenty Hamming numbers:");
 		int[] res = new int[20];

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class DataTypesExercises-5{
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Input the time zone offset to GMT: ");

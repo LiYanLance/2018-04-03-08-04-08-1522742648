@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class DataTypesExercises-1 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Input a degree in Fahrenheit: ");

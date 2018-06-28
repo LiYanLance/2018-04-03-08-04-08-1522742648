@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Numbers-3{
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.print("Input the starting number of the range: ");

@@ -1,4 +1,4 @@
-public class Main{
+public class Numbers-7{
 	public static void main(String[] args) {
 		System.out.println("First ten Lucas a numbers:");
 		int count = 0;
